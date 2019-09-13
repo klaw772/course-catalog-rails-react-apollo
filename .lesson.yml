@@ -1,0 +1,7 @@
+---
+title: "Course Catalog Rails React Apollo"
+type: "challenge"
+description: "Create an application of college course's with Rails, React, GraphQL, and Apollo"
+tags: "graphql, apollo, react, rails"
+ignore:
+- "course-catalog-rails-react-apollo.md"
